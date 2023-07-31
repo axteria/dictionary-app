@@ -1,11 +1,16 @@
-import './App.css';
+import "./App.css";
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Hello
-      </header>
+      <h1>📔Dictionary</h1>
+
+      <Dictionary />
+      <footer>
+        <a href="https://github.com/axteria/dictionary-app">Open-sourced</a> by
+        Faye W
+      </footer>
     </div>
   );
 }
