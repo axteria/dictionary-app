@@ -7,8 +7,10 @@ function App() {
       <h1>📔Dictionary</h1>
       <Dictionary defaultKeyword="sunset" />
       <footer>
-        <a href="https://github.com/axteria/dictionary-app">Open-sourced</a> by
-        Faye W
+        <a href="https://github.com/axteria/dictionary-app" rel="noreferrer">
+          Open-sourced
+        </a>{" "}
+        by Faye W
       </footer>
     </div>
   );
