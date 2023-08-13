@@ -2,6 +2,14 @@
   margin: 30px;
 }
 
+body {
+  background-color: #e3dff98d;
+}
+
+a {
+  color: #8d44d6bb;
+}
+
 h1 {
   text-align: center;
 }

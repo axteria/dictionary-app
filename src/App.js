@@ -5,8 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>📔Dictionary</h1>
-
-      <Dictionary />
+      <Dictionary defaultKeyword="sunset" />
       <footer>
         <a href="https://github.com/axteria/dictionary-app">Open-sourced</a> by
         Faye W
